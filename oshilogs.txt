@@ -12,84 +12,111 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Alika =====
-[1]Alika       |10:31:21 | 19-10-2026| login OK @alikavelerie | score=1460 rank=4740
-[1]Alika       |10:31:21 | 19-10-2026| serverTime=2026-10-19T10:31:21.000Z local=2026-10-19T10:31:21.087Z
+[1]Alika       |09:48:52 | 20-10-2026| login OK @alikavelerie | score=1560 rank=4504
+[1]Alika       |09:48:52 | 20-10-2026| serverTime=2026-10-20T09:48:52.000Z local=2026-10-20T09:48:52.429Z
 --> [1]Alika menjalankan: Claim Daily
-[1]Alika       |10:31:22 | 19-10-2026| daily: OK +10 poin score=1470
---> [1]Alika menjalankan: Auto All Tasks (9 pending)
-[1]Alika       |10:31:24 | 19-10-2026| [1/9] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/alikavelerie/status/2112128897526705474
-[1]Alika       |10:31:24 | 19-10-2026| delay 10s...
-[1]Alika       |10:31:37 | 19-10-2026| [2/9] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/alikavelerie/status/2112129254166686129
-[1]Alika       |10:31:37 | 19-10-2026| delay 10s...
-[1]Alika       |10:31:49 | 19-10-2026| [3/9] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/alikavelerie/status/2112129103242971663
-[1]Alika       |10:31:49 | 19-10-2026| delay 10s...
-[1]Alika       |10:32:02 | 19-10-2026| [4/9] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/alikavelerie/status/2112129029576484337
-[1]Alika       |10:32:02 | 19-10-2026| delay 10s...
-[1]Alika       |10:32:15 | 19-10-2026| [5/9] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/alikavelerie/status/2112129316538972325
-[1]Alika       |10:32:15 | 19-10-2026| delay 10s...
-[1]Alika       |10:32:28 | 19-10-2026| [6/9] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/alikavelerie/status/2112129434640214282
-[1]Alika       |10:32:28 | 19-10-2026| delay 10s...
-[1]Alika       |10:32:41 | 19-10-2026| [7/9] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/alikavelerie/status/2112129381105196316
-[1]Alika       |10:32:41 | 19-10-2026| delay 10s...
-[1]Alika       |10:32:53 | 19-10-2026| [8/9] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/alikavelerie/status/2112129504721049834
-[1]Alika       |10:32:53 | 19-10-2026| delay 10s...
-[1]Alika       |10:33:06 | 19-10-2026| [9/9] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/alikavelerie/status/2112129469561775763
-[1]Alika       |10:33:06 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Alika       |10:33:08 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/alikavelerie/status/2112129614043084890
+[1]Alika       |09:48:53 | 20-10-2026| daily: OK +10 poin score=1570
+--> [1]Alika menjalankan: Auto All Tasks (5 pending)
+[1]Alika       |09:48:54 | 20-10-2026| [1/5] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alikavelerie/status/2112480596542377060
+[1]Alika       |09:48:54 | 20-10-2026| delay 10s...
+[1]Alika       |09:49:06 | 20-10-2026| [2/5] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alikavelerie/status/2112480918104919600
+[1]Alika       |09:49:06 | 20-10-2026| delay 10s...
+[1]Alika       |09:49:18 | 20-10-2026| [3/5] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alikavelerie/status/2112480649443583786
+[1]Alika       |09:49:18 | 20-10-2026| delay 10s...
+[1]Alika       |09:49:30 | 20-10-2026| [4/5] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alikavelerie/status/2112481035121167703
+[1]Alika       |09:49:30 | 20-10-2026| delay 10s...
+[1]Alika       |09:49:42 | 20-10-2026| [5/5] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alikavelerie/status/2112480954365482355
+[1]Alika       |09:49:42 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Alika       |09:49:43 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/alikavelerie/status/2112481000330099049
 --> [1]Alika menjalankan: Watch Anime
-[1]Alika       |10:33:09 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Alika       |10:33:09 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Alika       |10:33:12 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Alika       |10:33:17 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Alika       |10:33:19 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Alika       |10:33:24 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Alika       |10:33:25 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Alika       |10:33:30 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Alika       |10:33:32 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Alika       |09:49:44 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Alika       |09:49:44 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Alika       |09:49:46 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Alika       |09:49:52 | 20-10-2026| watch oshi-captains-hat: 5% (5.11/92.00s)
+[1]Alika       |09:49:59 | 20-10-2026| watch oshi-captains-hat: 11% (10.94/92.00s)
+[1]Alika       |09:50:05 | 20-10-2026| watch oshi-captains-hat: 18% (16.64/92.00s)
+[1]Alika       |09:50:12 | 20-10-2026| watch oshi-captains-hat: 24% (22.60/92.00s)
+[1]Alika       |09:50:17 | 20-10-2026| watch oshi-captains-hat: heartbeat GAGAL http=503
+[1]Alika       |09:50:22 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Alika       |09:50:23 | 20-10-2026| watch oshi-rainbow-star: start GAGAL http=503
+[1]Alika       |09:50:28 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Alika       |09:50:28 | 20-10-2026| watch oshi-rainbow-lighthouse: start GAGAL http=503
+[1]Alika       |09:50:33 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Alika       |09:50:35 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Alika       |09:50:40 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.27/181.00s)
+[1]Alika       |09:50:47 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.65/181.00s)
+[1]Alika       |09:50:53 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.68/181.00s)
+[1]Alika       |09:51:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.26/181.00s)
+[1]Alika       |09:51:07 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.12/181.00s)
+[1]Alika       |09:51:13 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (34.10/181.00s)
+[1]Alika       |09:51:19 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (39.71/181.00s)
+[1]Alika       |09:51:25 | 20-10-2026| watch bakeru-ikesou-jan-mv: 24% (45.14/181.00s)
+[1]Alika       |09:51:31 | 20-10-2026| watch bakeru-ikesou-jan-mv: 28% (50.69/181.00s)
+[1]Alika       |09:51:37 | 20-10-2026| watch bakeru-ikesou-jan-mv: 30% (56.02/181.00s)
+[1]Alika       |09:51:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.47/181.00s)
+[1]Alika       |09:51:49 | 20-10-2026| watch bakeru-ikesou-jan-mv: 36% (66.82/181.00s)
+[1]Alika       |09:51:55 | 20-10-2026| watch bakeru-ikesou-jan-mv: 39% (72.09/181.00s)
+[1]Alika       |09:52:01 | 20-10-2026| watch bakeru-ikesou-jan-mv: 43% (77.91/181.00s)
+[1]Alika       |09:52:07 | 20-10-2026| watch bakeru-ikesou-jan-mv: 45% (83.20/181.00s)
+[1]Alika       |09:52:13 | 20-10-2026| watch bakeru-ikesou-jan-mv: 49% (88.82/181.00s)
+[1]Alika       |09:52:19 | 20-10-2026| watch bakeru-ikesou-jan-mv: 52% (94.22/181.00s)
+[1]Alika       |09:52:26 | 20-10-2026| watch bakeru-ikesou-jan-mv: 55% (99.58/181.00s)
+[1]Alika       |09:52:32 | 20-10-2026| watch bakeru-ikesou-jan-mv: 58% (105.69/181.00s)
+[1]Alika       |09:52:38 | 20-10-2026| watch bakeru-ikesou-jan-mv: 61% (111.38/181.00s)
+[1]Alika       |09:52:44 | 20-10-2026| watch bakeru-ikesou-jan-mv: 64% (116.73/181.00s)
+[1]Alika       |09:52:50 | 20-10-2026| watch bakeru-ikesou-jan-mv: 67% (122.07/181.00s)
+[1]Alika       |09:52:57 | 20-10-2026| watch bakeru-ikesou-jan-mv: 70% (127.39/181.00s)
+[1]Alika       |09:53:03 | 20-10-2026| watch bakeru-ikesou-jan-mv: 73% (133.36/181.00s)
+[1]Alika       |09:53:09 | 20-10-2026| watch bakeru-ikesou-jan-mv: 76% (139.02/181.00s)
+[1]Alika       |09:53:15 | 20-10-2026| watch bakeru-ikesou-jan-mv: 79% (144.43/181.00s)
+[1]Alika       |09:53:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 82% (149.75/181.00s)
+[1]Alika       |09:53:28 | 20-10-2026| watch bakeru-ikesou-jan-mv: 86% (155.89/181.00s)
+[1]Alika       |09:53:34 | 20-10-2026| watch bakeru-ikesou-jan-mv: 89% (161.17/181.00s)
+[1]Alika       |09:53:40 | 20-10-2026| watch bakeru-ikesou-jan-mv: 91% (166.41/181.00s)
+[1]Alika       |09:53:40 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (166.41/181.00s)
 --> [1]Alika menjalankan: Read Article
-[1]Alika       |10:33:35 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Alika       |10:33:36 | 19-10-2026| mint eligibility: {"userId":"1715904022673268736","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Alika       |10:33:36 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Alika       |09:53:41 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Alika       |09:53:46 | 20-10-2026| mint eligibility: {"userId":"1715904022673268736","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Alika       |09:53:46 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Alika menjalankan: Quiz Anime
-[1]Alika       |10:33:37 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Alika       |10:33:37 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Alika       |10:33:37 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Alika       |10:33:37 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Alika       |10:33:37 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Alika       |10:33:37 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Alika       |09:53:46 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Alika       |09:53:46 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Alika       |09:53:46 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Alika       |09:53:46 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Alika       |09:53:46 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Alika       |09:53:46 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Alika menjalankan: Music Missions (realtime, bisa lama!)
-[1]Alika       |10:33:39 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Alika       |10:33:39 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Alika       |10:33:39 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Alika       |10:33:39 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Alika       |09:53:48 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Alika       |09:53:48 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Alika       |09:53:48 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Alika       |09:53:48 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Alika menjalankan: Claim Missions
-[1]Alika       |10:33:40 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Alika       |10:33:40 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Alika       |10:33:40 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Alika       |09:53:49 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Alika       |09:53:49 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Alika       |09:53:49 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Alika menjalankan: Check Eligibility
 
 --- eligibility [1]Alika ---
-  @alikavelerie | score=1460 rank=4740
-  tasks    [##################--] 74/83
+  @alikavelerie | score=1560 rank=4504
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 18/17
+  watch    [####################] 19/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Alika menjalankan: Read Manga
-[1]Alika       |10:33:45 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Alika       |09:53:52 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Alika menjalankan: Get Gift
-[1]Alika       |10:33:46 | 19-10-2026| gift: 0/4 belum diterima
+[1]Alika       |09:53:53 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Alika menjalankan: Setup Profile
-[1]Alika       |10:33:46 | 19-10-2026| profile: bio="https://x.com/alikavelerie" fav=yuki rewardAt=1791686710
-[1]Alika       |10:33:46 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Alika       |09:53:53 | 20-10-2026| profile: bio="https://x.com/alikavelerie" fav=yuki rewardAt=1791686710
+[1]Alika       |09:53:53 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Alika menjalankan: Bind Wallet
-[1]Alika       |10:33:47 | 19-10-2026| wallet: sudah terikat 3RbKXHPoBX... (solana)
+[1]Alika       |09:53:54 | 20-10-2026| wallet: sudah terikat 3RbKXHPoBX... (solana)
 
 == RINGKASAN ==
-- Alika: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Alika: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
